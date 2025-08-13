@@ -325,7 +325,7 @@ Permisos Esenciales:
 
 **Zubkan CORE** - El bot más avanzado del ecosistema Discord
 
-[![Agregar Bot](https://img.shields.io/badge/Agregar%20Bot-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=TU_BOT_ID&permissions=8&scope=bot%20applications.commands)
+[![Agregar Bot](https://img.shields.io/badge/Agregar%20Bot-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://invite.zubkan.com)
 [![Servidor Soporte](https://img.shields.io/badge/Servidor%20Soporte-Únete-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.zubkan.com)
 
 **⭐ Si Zubkan CORE transformó tu servidor, ¡compártelo con el mundo! ⭐**
