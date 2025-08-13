@@ -292,13 +292,13 @@ Permisos Esenciales:
 ### 🆘 **Canales de Soporte**
 - **🔗 Discord:** [Servidor Oficial](https://discord.zubkan.com)
 - **📧 Email:** rafael@zubkan.com
-- **📚 Documentación:** [docs.zubkan.com](https://docs.zubkan.com)
-- **🐛 Issues:** [GitHub Issues](https://github.com/zubkan/issues)
+- **📚 Documentación:** [Documentación en GitHub](https://github.com/Zubkan/zubkan-core)
+- **🐛 Issues:** [Discord Channel Issues](https://discord.com/channels/728862143721504808/1364775383119036506)])
 
 ### ⏰ **Horarios de Atención**
-- **Soporte Técnico:** 24/7 vía Discord
-- **Consultas Comerciales:** Lun-Vie 9AM-6PM (UTC-5)
-- **Actualizaciones:** Automáticas sin interrupción
+- **Soporte Técnico:** vía Discord
+- **Consultas Comerciales:** No aceptadas
+- **Actualizaciones:** Automáticas con reinicio de 30 segundos aprox
 
 ---
 
