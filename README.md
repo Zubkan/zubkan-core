@@ -199,7 +199,7 @@
 
 ---
 
-## 🌐 **PANEL WEB AVANZADO**
+## 🌐 **PANEL WEB AVANZADO [PROXIMAMENTE]**
 
 ### 📈 **Dashboard Principal**
 - `https://zubkan.com` — Panel de control completo
@@ -282,7 +282,7 @@ Permisos Esenciales:
 
 ### 🔗 **Invitación del Bot**
 ```
-https://discord.com/oauth2/authorize?client_id=TU_BOT_ID&permissions=8&scope=bot%20applications.commands
+[https://discord.com/oauth2/authorize?client_id=TU_BOT_ID&permissions=8&scope=bot%20applications.commands](https://discord.com/oauth2/authorize?client_id=752761253885116467&permissions=1748080143105239&integration_type=0&scope=bot+applications.commands)
 ```
 
 ---
