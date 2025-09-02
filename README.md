@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/Version-2.0-brightgreen.svg)]()
 [![Commands](https://img.shields.io/badge/Commands-90+-orange.svg)]()
 
-**Zubkan CORE** es el bot de Discord más avanzado y completo del mercado. Con más de **90 comandos**, sistemas inteligentes de IA, automoderación ultra-avanzada, y funcionalidades empresariales, todo integrado en una sola plataforma.
+**Zubkan CORE** es el bot de Discord más avanzado y completo del mercado. Con más de **80 comandos**, sistemas inteligentes de IA, automoderación ultra-avanzada, y funcionalidades empresariales, todo integrado en una sola plataforma.
 
 > **🎯 Bot de nueva generación con tecnología de vanguardia y análisis comportamental en tiempo real.**
 
